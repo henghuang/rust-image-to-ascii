@@ -7,4 +7,4 @@
 # output
 ![](screenshot.PNG)
 
-<img src="screenshot.PNG" width="200">
+
